@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539461463 source:f:\data structure\n-ary tree 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<queue>
+

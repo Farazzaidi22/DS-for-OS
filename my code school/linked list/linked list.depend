@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541518249 source:f:\data structure\my code school\linked list\main.cpp
+	<iostream>
+	<stdlib.h>
+

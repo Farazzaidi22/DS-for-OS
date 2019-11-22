@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542555160 source:f:\data structure\graphs adj mat\main.cpp
+	<iostream>
+	<stdlib.h>
+

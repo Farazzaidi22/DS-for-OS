@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542550561 source:f:\data structure\max_min_heap\main.cpp
+	<iostream>
+	<stdlib.h>
+

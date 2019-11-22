@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542597067 source:f:\data structure\my code school\dijistra spa\main.cpp
+	<iostream>
+	<stdlib.h>
+	<queue>
+

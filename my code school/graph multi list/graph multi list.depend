@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542595311 source:f:\data structure\my code school\graph multi list\main.cpp
+	<iostream>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<queue>
+	<stack>
+

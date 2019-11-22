@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542503666 source:f:\practice ds\bst into linked list\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stack>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542267572 source:f:\data structure\my code school\weighted graphs\main.cpp
+	<iostream>
+	<stdlib.h>
+	<queue>
+

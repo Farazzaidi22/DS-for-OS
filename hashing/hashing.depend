@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535960975 source:f:\data structure\hashing\main.cpp
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540798890 source:f:\data structure\graph multi list\main.cpp
+	<iostream>
+	"vertex.h"
+
+1541324940 f:\data structure\graph multi list\vertex.h
+	<iostream>
+	"edges.h"
+
+1540799829 f:\data structure\graph multi list\edges.h
+	<iostream>
+

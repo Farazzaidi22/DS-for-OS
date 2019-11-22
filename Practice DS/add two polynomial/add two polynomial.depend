@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542460779 source:f:\practice ds\add two polynomial\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
